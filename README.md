@@ -19,7 +19,7 @@ Jestem Wojtek – student 3. roku Informatyki Technicznej na AGH w Krakowie.
 ---
 
 ### 📫 Znajdziesz mnie tutaj:
-- [LinkedIn](https://www.linkedin.com/in/wojciech-ferda) *(uaktualnij jeśli masz!)*
+- [LinkedIn](https://www.linkedin.com/in/wojciech-ferda-3b6b21359/) 
 
 ---
 
