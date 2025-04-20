@@ -34,9 +34,11 @@ Jestem Wojtek – student 3. roku Informatyki Technicznej na AGH w Krakowie.
 
 ### 📌 Wybrane projekty:
 
-- 🎯 [`gymnasium-mountain-car`](https://github.com/wojferda/gymnasium-mountain-car) – projekt reinforcement learning z użyciem środowiska MountainCarContinuous
-- 🤖 [`face-recognition`](https://github.com/wojferda/face-recognition) – system logowania przez rozpoznawanie twarzy z użyciem kamery
-- 🛠️ [`strips-starcraft-planner`](https://github.com/wojferda/strips-starcraft-planner) – planowanie działań w StarCrafcie przy użyciu STRIPS
-- 📈 [`football-prediction`](https://github.com/wojferda/football-prediction) – predykcja wyników meczów piłkarskich na podstawie danych
+- 🧠 [`MES`](https://github.com/wojferda/MES) – Symulacja metodą elementów skończonych, pomocna przy analizie konstrukcji inżynierskich.
+- 📊 [`CPM_method`](https://github.com/wojferda/CPM_method) – Implementacja metody CPM (Critical Path Method) do analizy sieci zależności projektowych.
+- 💪 [`Workout-Planner`](https://github.com/wojferda/Workout-Planner) – Aplikacja do planowania treningów zbudowana w TypeScript.
+- 🧠 [`Tic-Tac-Toe-AI`](https://github.com/wojferda/Tic-Tac-Toe-AI) – Gra w kółko i krzyżyk z AI napisaną w Javie.
+- 📰 [`AI_Blog_App`](https://github.com/wojferda/AI_Blog_App) – Prosty front strony blogowej, potencjalnie do integracji z AI backendem.
+
 
 Więcej znajdziesz w przypiętych repozytoriach 👇
