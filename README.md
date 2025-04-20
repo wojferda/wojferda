@@ -1,16 +1,43 @@
-## Hi there 👋
+### Cześć! 👋  
+Jestem Wojtek – student 3. roku Informatyki Technicznej na AGH w Krakowie.
 
-<!--
-**wojferda/wojferda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Aktualnie rozwijam swoje umiejętności w:
+- DevOps i automatyzacji (CI/CD, Git, Docker)
+- Tworzeniu większych projektów z AI i ML
+- Backendzie i API (głównie w Pythonie)
+- Pracy z technologiami chmurowymi i bazami danych
 
-Here are some ideas to get you started:
+💻 Technologie, z którymi pracuję na co dzień:
+`Python` • `Git` • `FastAPI` • `Firebase` • `React` • `Docker` • `Linux` • `MongoDB` • `PostgreSQL`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 Obecnie uczę się:
+- Tworzenia skalowalnych aplikacji webowych
+- Wdrażania rozwiązań AI do projektów produkcyjnych
+- Dobrych praktyk DevOps w większych repozytoriach
+
+---
+
+### 📫 Znajdziesz mnie tutaj:
+- [LinkedIn](https://www.linkedin.com/in/wojciech-ferda) *(uaktualnij jeśli masz!)*
+
+---
+
+### 🔥 Statystyki GitHub:
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wojferda&show_icons=true&theme=tokyonight&hide=prs&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wojferda&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 📌 Wybrane projekty:
+
+- 🎯 [`gymnasium-mountain-car`](https://github.com/wojferda/gymnasium-mountain-car) – projekt reinforcement learning z użyciem środowiska MountainCarContinuous
+- 🤖 [`face-recognition`](https://github.com/wojferda/face-recognition) – system logowania przez rozpoznawanie twarzy z użyciem kamery
+- 🛠️ [`strips-starcraft-planner`](https://github.com/wojferda/strips-starcraft-planner) – planowanie działań w StarCrafcie przy użyciu STRIPS
+- 📈 [`football-prediction`](https://github.com/wojferda/football-prediction) – predykcja wyników meczów piłkarskich na podstawie danych
+
+Więcej znajdziesz w przypiętych repozytoriach 👇
