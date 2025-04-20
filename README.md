@@ -5,10 +5,9 @@ Jestem Wojtek – student 3. roku Informatyki Technicznej na AGH w Krakowie.
 - DevOps i automatyzacji (CI/CD, Git, Docker)
 - Tworzeniu większych projektów z AI i ML
 - Backendzie i API (głównie w Pythonie)
-- Pracy z technologiami chmurowymi i bazami danych
 
 💻 Technologie, z którymi pracuję na co dzień:
-`Python` • `Git` • `FastAPI` • `Firebase` • `React` • `Docker` • `Linux` • `MongoDB` • `PostgreSQL`
+`Python` • `Git` • `FastAPI` • `Firebase` • `React` • `Docker` • `Linux` • 
 
 ---
 
