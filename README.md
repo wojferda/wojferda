@@ -35,7 +35,7 @@ Jestem Wojtek – student 3. roku Informatyki Technicznej na AGH w Krakowie.
 ### 📌 Wybrane projekty:
 
 - 🧠 [`MES`](https://github.com/wojferda/MES) – Symulacja metodą elementów skończonych, pomocna przy analizie konstrukcji inżynierskich.
-- 📊 [`CPM_method`](https://github.com/wojferda/CPM_method) – Implementacja metody CPM (Critical Path Method) do analizy sieci zależności projektowych.
+- 🧠 [`Flower Recognition`](https://github.com/wojferda/ai-flower-recognition) – Sieć neuronowa do rozpoznawania kwiatów na zdjęciach, wykorzystująca głębokie uczenie.
 - 💪 [`Workout-Planner`](https://github.com/wojferda/Workout-Planner) – Aplikacja do planowania treningów zbudowana w TypeScript.
 - 🧠 [`Tic-Tac-Toe-AI`](https://github.com/wojferda/Tic-Tac-Toe-AI) – Gra w kółko i krzyżyk z AI napisaną w Javie.
 - 📰 [`AI_Blog_App`](https://github.com/wojferda/AI_Blog_App) – Prosty front strony blogowej, potencjalnie do integracji z AI backendem.
