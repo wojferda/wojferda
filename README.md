@@ -26,8 +26,8 @@ Jestem Wojtek – student 3. roku Informatyki Technicznej na AGH w Krakowie.
 ### 🔥 Statystyki GitHub:
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wojferda&show_icons=true&theme=tokyonight&hide=prs&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wojferda&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wojferda&show_icons=true&hide=prs&count_private=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wojferda&layout=compact&theme=dark&hide=jupyter%20notebook" />
 </p>
 
 ---
@@ -39,6 +39,5 @@ Jestem Wojtek – student 3. roku Informatyki Technicznej na AGH w Krakowie.
 - 💪 [`Workout-Planner`](https://github.com/wojferda/Workout-Planner) – Aplikacja do planowania treningów zbudowana w TypeScript.
 - 🧠 [`Tic-Tac-Toe-AI`](https://github.com/wojferda/Tic-Tac-Toe-AI) – Gra w kółko i krzyżyk z AI napisaną w Javie.
 - 📰 [`AI_Blog_App`](https://github.com/wojferda/AI_Blog_App) – Prosty front strony blogowej, potencjalnie do integracji z AI backendem.
-
 
 Więcej znajdziesz w przypiętych repozytoriach 👇
