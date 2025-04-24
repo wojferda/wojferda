@@ -1,4 +1,3 @@
-
 ### Cześć! 👋  
 Jestem Wojtek – student 3. roku Informatyki Technicznej na AGH w Krakowie.
 
